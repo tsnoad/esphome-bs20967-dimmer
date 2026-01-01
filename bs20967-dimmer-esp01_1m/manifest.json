@@ -1,0 +1,13 @@
+{
+  "chipFamily": "ESP01-1M",
+  "ota": {
+    "path": "bs20967-dimmer-esp01-1m/bs20967-dimmer-esp01-1m.ota.bin",
+    "md5": "cfb6aac1e4d768baff9c5273d3bec1ac"
+  },
+  "parts": [
+    {
+      "path": "bs20967-dimmer-esp01-1m/bs20967-dimmer-esp01-1m.factory.bin",
+      "offset": 0
+    }
+  ]
+}

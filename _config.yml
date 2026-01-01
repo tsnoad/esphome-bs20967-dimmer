@@ -1,4 +1,4 @@
 # CHANGEME: Set these variable to your liking
-title: ESPHome Project Template
-description: Powered by ESPHome and ESP Web Tools
+title: ESPHome BS 20967 Dimmer
+description: ESPHome config for BS 20967 wifi smart trailing edge dimmer mech
 theme: jekyll-theme-slate
